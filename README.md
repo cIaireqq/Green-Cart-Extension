@@ -1,3 +1,2 @@
 # Pulse 
-for CSHS Hackathon!!
-
+print("hello world")
