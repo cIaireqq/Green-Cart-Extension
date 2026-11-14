@@ -1,10 +1,10 @@
 # ReClaim 
 import streamlit as st
 
-st.title("My Hackathon Project")
-user_text = st.text_area("Type here:")
+st.title("ReClaim")
+user_text = st.text_area("Search or enter a brand")
 
-if st.button("Run"):
+if st.button("Enter"):
   # Put your team's Python code here
-  answer = user_text.upper()
+  answer = user_text.lower()
   st.write(answer)
