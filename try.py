@@ -3,7 +3,7 @@ import streamlit as st
 st.title("ReClaim")
 userChips = st.text_input(
     "Search or enter a brand"
-)  # Changed to a sleeker single-line search bar!
+)  
 
 if st.button("Enter"):
   chips = ["Lays", "Ruffles", "Calbee", "Kettle"]
@@ -15,11 +15,11 @@ if st.button("Enter"):
       "idk",
   ]
   
-  # .strip() removes accidental spaces if someone types "Lays "
+
   cleanInput = userChips.strip().lower()
 
   for i in range(len(chips)):
-    if cleanInput == chips[i].lower():  # Works even if they type "lays" in lowercase!
+    if cleanInput == chips[i].lower():
       st.subheader(f"{chips[i]} Grade: {grade[i]}/100")
       st.info(reason[i])
       break
