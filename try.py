@@ -13,20 +13,30 @@ if st.button("Enter"):
       "oil problems",
       "some problem but pretty good",
       "idk",
-  ]
-  
+  ]  
 
   cleanInput = userChips.strip().lower()
-
+    
   for i in range(len(chips)):
     if cleanInput == chips[i].lower():
-      st.subheader(f"{chips[i]} Grade: {grade[i]}/100")
-      st.info(reason[i])
+      st.subheader(f"{chips[i]} — {grade[i]}/100")
+      st.progress(grade[i] / 100)
+
+      if grade[i] <= 25:
+        st.error("Rating: Not Eco-Friendly")  
+      elif grade[i] <= 50:
+        st.warning("Rating: Moderate")  
+      elif grade[i] <= 75:
+        st.success("Rating: Eco-Friendly") 
+      else:
+        st.info("Rating: Top Pick")  
+
+      st.markdown(f"{reason[i]}")
       break
   else:
     st.warning(
         "We don't have that chips brand. Try to check your spelling. "
-        "Otherwise, the chip brand you entered might have an alternative name or spelling. "
+        "Otherwise, the chip brand you entered might have an alternative name or spelling."
         "If we still do not have it, check these sources that might:"
-        " [some sources idk]"
+        "[some sources idk]"
     )
