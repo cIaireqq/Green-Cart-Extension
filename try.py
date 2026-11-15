@@ -2,7 +2,7 @@
 import streamlit as st
 st.title("ReClaim")
 userChips = st.text_input(
-    "Search or enter a brand"
+    "Search or enter the name of a brand (Eg: 'Lays' instead of 'Lays Chips')"
 )  
 
 if st.button("Enter"):
