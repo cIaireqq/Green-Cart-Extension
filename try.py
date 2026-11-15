@@ -6,13 +6,14 @@ userChips = st.text_input(
 )  
 
 if st.button("Enter"):
-  chips = ["Lays", "Ruffles", "Calbee", "Kettle"]
-  grade = [17, 40, 70, 86]
+  chips = ["Lays", "Ruffles", "Calbee", "Kettle", "Tyrells"]
+  grade = [17, 40, 70, 86, 80]
   reason = [
       "Packaging uses too much plastic",
       "oil problems",
       "some problem but pretty good",
       "idk",
+      "organic British crisps yum yum yum. Young lad you have very good taste in chips. You should get the sweet chili flavor"
   ]  
 
   cleanInput = userChips.strip().lower()
