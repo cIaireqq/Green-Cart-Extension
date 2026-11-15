@@ -25,8 +25,8 @@ if st.button("Enter"):
       break
   else:
     st.warning(
-        "We don't have that chips brand. Try to check your spelling."
-        "Otherwise, the chip brand you entered might have an alternative name or spelling."
+        "We don't have that chips brand. Try to check your spelling. "
+        "Otherwise, the chip brand you entered might have an alternative name or spelling. "
         "If we still do not have it, check these sources that might:"
         " [some sources idk]"
     )
