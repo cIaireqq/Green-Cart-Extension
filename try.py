@@ -1,7 +1,7 @@
 # ReClaim 
 import streamlit as st
 st.title("ReClaim")
-user_Chips = st.text_input(
+userChips = st.text_input(
     "Search or enter a brand"
 )  # Changed to a sleeker single-line search bar!
 
@@ -16,15 +16,17 @@ if st.button("Enter"):
   ]
   
   # .strip() removes accidental spaces if someone types "Lays "
-  clean_input = user_Chips.strip()
+  cleanInput = userChips.strip().lower()
 
   for i in range(len(chips)):
-    if clean_input.lower() == chips[i].lower():  # Works even if they type "lays" in lowercase!
+    if cleanInput == chips[i].lower():  # Works even if they type "lays" in lowercase!
       st.subheader(f"{chips[i]} Grade: {grade[i]}/100")
       st.info(reason[i])
       break
   else:
     st.warning(
-        "We don't have that chips brand. Here are some sources that might:"
+        "We don't have that chips brand. Try to check your spelling."
+        "Otherwise, the chip brand you entered might have an alternative name or spelling."
+        "If we still do not have it, check these sources that might:"
         " [some sources idk]"
     )
