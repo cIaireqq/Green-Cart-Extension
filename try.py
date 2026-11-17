@@ -1,6 +1,5 @@
 # ReClaim 
-import streamlit as st
-st.set_page_config(layout="wide")
+import streamlit as st  
 
 from PIL import Image
 img = Image.open("chip.jpg")
@@ -37,14 +36,6 @@ st.markdown(
     "<h2 style='text-align: center; font-weight: 800; margin: 30px 0;'>AT RECLAIM, WE BELIEVE IN EATING WELL<br>WITHOUT SACRIFICING ENJOYMENT.</h2>",
     unsafe_allow_html=True
 )
-
-col1, col2, col3 = st.columns(3)
-with col1:
-    st.image("img1.jpg", use_container_width=True)
-with col2:
-    st.image("img2.jpg", use_container_width=True)
-with col3:
-    st.image("img3.jpg", use_container_width=True)
 
     
 cleanInput = userChips.strip().lower()
