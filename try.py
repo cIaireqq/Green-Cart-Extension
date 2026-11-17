@@ -6,7 +6,7 @@ img = Image.open("chip.jpg")
 width, height = img.size
 
 #crop the image
-crop_box = (0, int(height * 0.65), width, height)
+crop_box = (0, int(height * 0.75), width, height)
 banner_img = img.crop(crop_box)
 
 st.image(banner_img, use_container_width=True)
