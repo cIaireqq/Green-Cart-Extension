@@ -1,6 +1,5 @@
 # ReClaim 
 import streamlit as st
-st.set_page_config(layout="wide") 
 
 #top banner
 st.image("https://upload.wikimedia.org/wikipedia/commons/6/69/Potato-Chips.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original", use_container_width=True)
