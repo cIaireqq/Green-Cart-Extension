@@ -1,9 +1,18 @@
 # ReClaim 
 import streamlit as st
 
-#top banner
-st.image("https://upload.wikimedia.org/wikipedia/commons/6/69/Potato-Chips.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original", use_container_width=True)
+from PIL import Image
+img = Image.open("chip.jpg")
+width, height = img.size
 
+#crop the image
+crop_box = (0, int(height * 0.65), width, height)
+banner_img = img.crop(crop_box)
+
+st.image(banner_img, use_container_width=True)
+st.title("ReClaim")
+
+#title and grading stuff
 st.title("ReClaim")
 st.caption("Check out how we grade: https://docs.google.com/document/d/1E9Cwvz3hkz6Ln80RBsq7MWUtxvZ3rgDkj11CJlBvvU4/edit?tab=t.0")
 userChips = st.text_input(
