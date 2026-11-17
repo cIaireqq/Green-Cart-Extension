@@ -39,25 +39,25 @@ with col3:
     st.image("img3.jpg", use_container_width=True)
 
     
-  cleanInput = userChips.strip().lower()
+cleanInput = userChips.strip().lower()
     
-  for i in range(len(chips)):
+for i in range(len(chips)):
     if cleanInput == chips[i].lower():
-      st.subheader(f"{chips[i]} — {grade[i]}/100")
-      st.progress(grade[i] / 100)
+        st.subheader(f"{chips[i]} — {grade[i]}/100")
+        st.progress(grade[i] / 100)
 
-      if grade[i] <= 25:
+    if grade[i] <= 25:
         st.error("Rating: Not Eco-Friendly")  
-      elif grade[i] <= 50:
+    elif grade[i] <= 50:
         st.warning("Rating: Moderate")  
-      elif grade[i] <= 75:
+    elif grade[i] <= 75:
         st.success("Rating: Eco-Friendly") 
-      else:
+    else:
         st.info("Rating: Top Pick")  
 
-      st.markdown(f"{reason[i]}")
-      break
-  else:
+        st.markdown(f"{reason[i]}")
+    break
+else:
     st.warning(
         "We don't have that chips brand. Try checking your spelling. "
         "If we still do not have it, here are some sources that might:"
