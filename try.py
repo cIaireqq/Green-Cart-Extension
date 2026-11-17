@@ -1,5 +1,6 @@
 # ReClaim 
 import streamlit as st
+st.set_page_config(layout="wide")
 
 from PIL import Image
 img = Image.open("chip.jpg")
