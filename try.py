@@ -2,8 +2,6 @@
 import streamlit as st  
 from PIL import Image
 
-st.set_page_config(layout="wide")
-
 # remove the weird white edges things
 st.markdown(
     """
