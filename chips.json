@@ -1,0 +1,954 @@
+```json
+
+[
+  {
+    "name": "Lays",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "Ruffles",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "Calbee",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Kettle",
+    "score": 36,
+    "reason": "Despite strong Ingredients, the overall result is held back by a lack of Certifications and poor Packaging."
+  },
+  {
+    "name": "Tyrell’s",
+    "score": 33,
+    "reason": "The score is pulled down by a complete lack of Certifications and only moderate performance in Ingredients and Packaging."
+  },
+  {
+    "name": "Tyrrells",
+    "score": 33,
+    "reason": "The score is pulled down by a complete lack of Certifications and only moderate performance in Ingredients and Packaging."
+  },
+  {
+    "name": "SunChips",
+    "score": 30,
+    "reason": "The score is low primarily due to a lack of Packaging standards and weak Certifications, despite moderate performance in Ingredients."
+  },
+  {
+    "name": "Uglies",
+    "score": 45,
+    "reason": "Even with top-tier Ingredients, the overall score is weighed down by failing to meet standards in both Packaging and Certifications."
+  },
+  {
+    "name": "Confetti",
+    "score": 65,
+    "reason": "While Ingredients and Certifications are very strong, the overall score is lowered by a complete lack of Packaging standards."
+  },
+  {
+    "name": "Pringles",
+    "score": 24,
+    "reason": "Despite strong Packaging, the overall result is low because it failed to meet standards in both Ingredients and Certifications."
+  },
+  {
+    "name": "Cape Cod",
+    "score": 28,
+    "reason": "The score is low due to weak performance across all categories, particularly in Packaging and Certifications, alongside moderate Ingredients."
+  },
+  {
+    "name": "Miss Vickie’s",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Utz",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Wise",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Herr’s",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Walkers",
+    "score": 19,
+    "reason": "The score is low because performance was poor across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Smith's",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "Red Rock Deli",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Boulder Canyon",
+    "score": 32,
+    "reason": "Despite strong Ingredients, the overall result is heavily dragged down by failing to meet standards in both Packaging and Certifications."
+  },
+  {
+    "name": "Doritos",
+    "score": 5,
+    "reason": "The score is extremely low due to failing to meet standards in both Ingredients and Packaging, with only minimal standing in Certifications."
+  },
+  {
+    "name": "Tostitos",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "Fritos",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "Takis",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Santitas",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "Late July",
+    "score": 50,
+    "reason": "Even with top-tier Ingredients, the overall score is weighed down by a lack of Certifications and poor Packaging."
+  },
+  {
+    "name": "Siete",
+    "score": 32,
+    "reason": "Despite strong Ingredients, the overall result is heavily dragged down by failing to meet standards in both Packaging and Certifications."
+  },
+  {
+    "name": "Paqui",
+    "score": 32,
+    "reason": "Despite strong Ingredients, the overall result is heavily dragged down by failing to meet standards in both Packaging and Certifications."
+  },
+  {
+    "name": "Jack 'n Jill",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Proper Chips",
+    "score": 43,
+    "reason": "Despite top-tier Certifications, the overall score is held back by a complete lack of Packaging standards and only moderate Ingredients."
+  },
+  {
+    "name": "Oishi",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Turtle Chips",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Swing Chips",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Sabritas",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "Quest",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Cheetos",
+    "score": 5,
+    "reason": "The score is extremely low due to failing to meet standards in both Ingredients and Packaging, with only minimal standing in Certifications."
+  },
+  {
+    "name": "Andy Capp's",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Munchos",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "Zapp's",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Dirty Potato Chips",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Deep River Snacks",
+    "score": 32,
+    "reason": "Despite strong Ingredients, the overall result is heavily dragged down by failing to meet standards in both Packaging and Certifications."
+  },
+  {
+    "name": "Popchips",
+    "score": 32,
+    "reason": "Despite strong Ingredients, the overall result is heavily dragged down by failing to meet standards in both Packaging and Certifications."
+  },
+  {
+    "name": "Terra Chips",
+    "score": 32,
+    "reason": "Despite strong Ingredients, the overall result is heavily dragged down by failing to meet standards in both Packaging and Certifications."
+  },
+  {
+    "name": "Stacy's Pita Chips",
+    "score": 37,
+    "reason": "Despite strong Ingredients, the overall score is weighed down by a complete lack of Packaging standards and weak Certifications."
+  },
+  {
+    "name": "Stacy’s",
+    "score": 37,
+    "reason": "Despite strong Ingredients, the overall score is weighed down by a complete lack of Packaging standards and weak Certifications."
+  },
+  {
+    "name": "Simply 7",
+    "score": 32,
+    "reason": "Despite strong Ingredients, the overall result is heavily dragged down by failing to meet standards in both Packaging and Certifications."
+  },
+  {
+    "name": "Good Health",
+    "score": 25,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, alongside only moderate Ingredients."
+  },
+  {
+    "name": "Pipers",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Mackie's",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Seabrook",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Seabrook's",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Golden Wonder",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "KP Snacks",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Pom-Bear",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Hula Hoops",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Sensations",
+    "score": 28,
+    "reason": "The score is low due to weak performance across all categories, particularly in Packaging and Certifications, alongside moderate Ingredients."
+  },
+  {
+    "name": "Walkers Sensations",
+    "score": 28,
+    "reason": "The score is low due to weak performance across all categories, particularly in Packaging and Certifications, alongside moderate Ingredients."
+  },
+  {
+    "name": "Lorenz",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Lorenz Snacks",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Lorenz Bahlsen Snack-World",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Chio",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Funny-frisch",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Zweifel",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Estrella",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "McCoy's",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Mister Potato",
+    "score": 24,
+    "reason": "Despite strong Packaging, the overall result is low because it failed to meet standards in both Ingredients and Certifications."
+  },
+  {
+    "name": "Piattos",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Chippy",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Koikeya",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Koike-ya",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Yamayoshi",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Yamayoshi Seika",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Nongshim",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Orion",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Poca",
+    "score": 5,
+    "reason": "The score is extremely low due to failing to meet standards in both Ingredients and Packaging, with only minimal standing in Certifications."
+  },
+  {
+    "name": "Mr. Squirrel",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Mr.Squirrel",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Zaiwa",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Jays",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Granny Goose",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Old Dutch",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Humpty Dumpty",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Covered Bridge",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Neal Brothers",
+    "score": 58,
+    "reason": "Despite top-tier Ingredients and moderate Certifications, the overall score is held back by a complete lack of Packaging standards."
+  },
+  {
+    "name": "Hardbite",
+    "score": 32,
+    "reason": "Despite strong Ingredients, the overall result is heavily dragged down by failing to meet standards in both Packaging and Certifications."
+  },
+  {
+    "name": "Great Lakes Potato Chips",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Route 11",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Tim's Cascade",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Tim’s Cascade Snacks",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Hawaiian Brand",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Hawaiian Brand Kettle Style Potato Chips",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Maui Style",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "Clancy's",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Great Value",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Kroger",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Certifications, alongside poor Packaging and weak Ingredients."
+  },
+  {
+    "name": "Signature Select",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "365 by Whole Foods Market",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Good's",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Bachman",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Snyder of Berlin",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Shearer's Foods",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Shearer’s",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Grippo's",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Tom's",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Mikesell's",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Better Made",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Uncle Ray's",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Jay's Potato Chips",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Brim's",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Golden Flake",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "El Sabroso",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "El Milagro",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Barcel",
+    "score": 5,
+    "reason": "The score is extremely low due to failing to meet standards in both Ingredients and Packaging, with only minimal standing in Certifications."
+  },
+  {
+    "name": "Churrumais",
+    "score": 5,
+    "reason": "The score is extremely low due to failing to meet standards in both Ingredients and Packaging, with only minimal standing in Certifications."
+  },
+  {
+    "name": "Xochitl",
+    "score": 32,
+    "reason": "Despite strong Ingredients, the overall result is heavily dragged down by failing to meet standards in both Packaging and Certifications."
+  },
+  {
+    "name": "Golden Cross",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Tudor",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Brannigans",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Burts",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Two Farmers",
+    "score": 61,
+    "reason": "Despite top-tier Packaging, the overall score is held back by only moderate performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "10 Acre",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Ten Acre",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Mackie's of Scotland",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Real Crisps",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "REAL Crisps",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Salty Dog",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Corkers",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Corkers Crisps",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Yorkshire Crisps",
+    "score": 42,
+    "reason": "Despite strong Packaging, the overall score is held back by a complete lack of Certifications and only moderate Ingredients."
+  },
+  {
+    "name": "Fairfields Farm",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Kent Crisps",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Tayto",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Hunky Dorys",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "O'Donnell's",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Monster Munch",
+    "score": 19,
+    "reason": "The score is low because performance was poor across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Nik Naks",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "NikNaks",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Space Raiders",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Quavers",
+    "score": 19,
+    "reason": "The score is low because performance was poor across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Amica Chips",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "San Carlo",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Croky",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "OLW",
+    "score": 54,
+    "reason": "Despite strong Packaging, the overall score is weighed down by weak Certifications and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Old London Wasa",
+    "score": 54,
+    "reason": "Despite strong Packaging, the overall score is weighed down by weak Certifications and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Maarud",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "KiMs",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Bret's",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Brets",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Torres",
+    "score": 25,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, alongside only moderate Ingredients."
+  },
+  {
+    "name": "Patatas Torres",
+    "score": 25,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, alongside only moderate Ingredients."
+  },
+  {
+    "name": "Torres Selecta",
+    "score": 25,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, alongside only moderate Ingredients."
+  },
+  {
+    "name": "Grefusa",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Matutano",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Chip Star",
+    "score": 24,
+    "reason": "Despite strong Packaging, the overall result is low because it failed to meet standards in both Ingredients and Certifications."
+  },
+  {
+    "name": "Kappa Ebisen",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Bourbon",
+    "score": 24,
+    "reason": "Despite strong Packaging, the overall result is low because it failed to meet standards in both Ingredients and Certifications."
+  },
+  {
+    "name": "Haitai",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Crown",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Lotte",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Samyang",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "PanPan",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Clover Chips",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Roller Coaster",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Boy Bawang",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Regent",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Bingo!",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Haldiram's",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Uncle Chipps",
+    "score": 5,
+    "reason": "The score is extremely low due to failing to meet standards in both Ingredients and Packaging, with only minimal standing in Certifications."
+  },
+  {
+    "name": "Too Yumm!",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Yellow Diamond",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Chitato",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Japota",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Kusuka",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Thins",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Bluebird",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "ETA",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Samboy",
+    "score": 23,
+    "reason": "The score is held back by a lack of Packaging standards, weak Certifications, and only moderate performance in Ingredients."
+  },
+  {
+    "name": "Bugles",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "CC's",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Twisties",
+    "score": 5,
+    "reason": "The score is extremely low due to failing to meet standards in both Ingredients and Packaging, with only minimal standing in Certifications."
+  },
+  {
+    "name": "Cheezels",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Simba",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "Willards",
+    "score": 9,
+    "reason": "The score is very low due to failing to meet standards in both Packaging and Certifications, paired with weak Ingredients."
+  },
+  {
+    "name": "Chipsy",
+    "score": 14,
+    "reason": "The score is low due to a complete lack of Packaging standards, alongside weak performance in both Ingredients and Certifications."
+  },
+  {
+    "name": "Hey! Chips",
+    "score": 18,
+    "reason": "The score is low due to failing to meet standards in both Packaging and Certifications, paired with only moderate Ingredients."
+  },
+  {
+    "name": "Fairprice chips",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Humble Chips",
+    "score": 75,
+    "reason": "Despite top-tier Ingredients and Packaging, the overall score is kept from reaching the top due to a complete lack of Certifications."
+  },
+  {
+    "name": "Irvins",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "Golden Duck",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  },
+  {
+    "name": "The Golden Duck Co.",
+    "score": 0,
+    "reason": "The score is at the bottom because it failed to meet standards across all categories: Ingredients, Packaging, and Certifications."
+  }
+]
+
+```
+
+
+
