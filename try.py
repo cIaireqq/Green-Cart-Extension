@@ -26,7 +26,7 @@ with open("chips.json", "r", encoding="utf-8") as file:
 
 # Verify the type and access values
 print(type(data))  # <class 'dict'>
-print(data["Lays"])
+print(data[0]["name"])
 
 
 chips = ["Lays", "Ruffles", "Calbee", "Kettle", "Tyrells"]
