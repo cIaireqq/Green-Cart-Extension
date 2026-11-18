@@ -32,6 +32,7 @@ with open("chips-1.csv", mode="r", newline="", encoding="utf-8") as file:
 # st.caption(columns)
 chips = columns[0]
 grade = columns[1]
+st.caption(grade[:5]);
 grade = [float(k) for k in grade]
 reason = columns[2]
 
