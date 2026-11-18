@@ -24,14 +24,6 @@ fc=f.readlines();
 if f!=None: 
     st.caption('file exists!');
     for i in fc[:5]: st.caption(i);
-# Open the file and load its contents into a dictionary
-#with open("chips.json", "r") as file:
-#    data = json.load(file)
-
-# Verify the type and access values
-#print(type(data))  # <class 'dict'>
-#print(data[0]["name"])
-
 
 chips = ["Lays", "Ruffles", "Calbee", "Kettle", "Tyrells"]
 grade = [17, 40, 70, 86, 80]
