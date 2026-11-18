@@ -29,6 +29,7 @@ if f!=None:
 with open("chips-1.csv", mode="r", newline="", encoding="utf-8") as file:
     reader = csv.reader(file)
     columns = [list(col) for col in zip(*reader)]
+st.caption(columns)
 
 chips = ["Lays", "Ruffles", "Calbee", "Kettle", "Tyrells"]
 grade = [17, 40, 70, 86, 80]
