@@ -1,6 +1,7 @@
 # ReClaim 
 import streamlit as st  
 from PIL import Image
+import csv
 
 img = Image.open("chip.jpg")
 width, height = img.size
@@ -24,6 +25,10 @@ fc=f.readlines();
 if f!=None: 
     st.caption('file exists!');
     for i in fc[:5]: st.caption(i);
+# TRIAL TRIAL TRIAL 
+with open("data.csv", mode="r", newline="", encoding="utf-8") as file:
+    reader = csv.reader(file)
+    columns = [list(col) for col in zip(*reader)]
 
 chips = ["Lays", "Ruffles", "Calbee", "Kettle", "Tyrells"]
 grade = [17, 40, 70, 86, 80]
