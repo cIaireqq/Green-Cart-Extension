@@ -21,7 +21,7 @@ userChips = st.text_input(
 
 
 # Open the file and load its contents into a dictionary
-with open("chips.json", "r", encoding="utf-8") as file:
+with open("chips.json", "r") as file:
     data = json.load(file)
 
 # Verify the type and access values
