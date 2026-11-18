@@ -18,8 +18,8 @@ userChips = st.text_input(
     "Search or enter the name of a brand (Eg: 'Lays' instead of 'Lays Chips')"
 )  
 
-st.caption("chips.csv");
-f=open('chips.csv','r');
+st.caption("chips-1.csv");
+f=open('chips-1.csv','r');
 fc=f.readlines();
 if f!=None: 
     st.caption('file exists!');
