@@ -19,14 +19,14 @@ userChips = st.text_input(
     "Search or enter the name of a brand (Eg: 'Lays' instead of 'Lays Chips')"
 )  
 
-
+st.caption("chips.json");
 # Open the file and load its contents into a dictionary
-with open("chips.json", "r") as file:
-    data = json.load(file)
+#with open("chips.json", "r") as file:
+#    data = json.load(file)
 
 # Verify the type and access values
-print(type(data))  # <class 'dict'>
-print(data[0]["name"])
+#print(type(data))  # <class 'dict'>
+#print(data[0]["name"])
 
 
 chips = ["Lays", "Ruffles", "Calbee", "Kettle", "Tyrells"]
