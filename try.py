@@ -1,6 +1,7 @@
 # ReClaim 
 import streamlit as st  
 from PIL import Image
+import json
 
 img = Image.open("chip.jpg")
 width, height = img.size
@@ -17,6 +18,16 @@ st.caption("Check out how we grade: https://docs.google.com/document/d/1E9Cwvz3h
 userChips = st.text_input(
     "Search or enter the name of a brand (Eg: 'Lays' instead of 'Lays Chips')"
 )  
+
+
+# Open the file and load its contents into a dictionary
+with open("chips.json", "r", encoding="utf-8") as file:
+    data = json.load(file)
+
+# Verify the type and access values
+print(type(data))  # <class 'dict'>
+print(data["Lays"])
+
 
 chips = ["Lays", "Ruffles", "Calbee", "Kettle", "Tyrells"]
 grade = [17, 40, 70, 86, 80]
