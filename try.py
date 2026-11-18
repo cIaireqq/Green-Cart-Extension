@@ -50,7 +50,7 @@ if st.button("Enter") or userChips.strip():
     for i in range(len(chips)):
         if cleanInput == chips[i].lower():
             st.subheader(f"{chips[i]} — {grade[i]}/100")
-            st.progress(grade[i] / 100)
+            st.progress(float(grade[i]) / 100)
 
             if grade[i] <= 25:
                 st.error("Rating: Not Eco-Friendly")  
