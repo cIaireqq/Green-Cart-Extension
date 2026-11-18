@@ -32,7 +32,7 @@ with open("chips-1.csv", mode="r", newline="", encoding="utf-8") as file:
 chips = columns[0][1:]
 grade = columns[1][1:]
 #st.caption(grade[:5]);
-grade = [float(k) for k in grade]
+grade = [int(k) for k in grade]
 reason = columns[2][1:]
 
 #chips = ["Lays", "Ruffles", "Calbee", "Kettle", "Tyrells"]
