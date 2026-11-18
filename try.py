@@ -26,7 +26,7 @@ if f!=None:
     st.caption('file exists!');
     for i in fc[:5]: st.caption(i);
 # TRIAL TRIAL TRIAL 
-with open("data.csv", mode="r", newline="", encoding="utf-8") as file:
+with open("chips-1.csv", mode="r", newline="", encoding="utf-8") as file:
     reader = csv.reader(file)
     columns = [list(col) for col in zip(*reader)]
 
