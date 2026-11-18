@@ -29,17 +29,20 @@ if f!=None:
 with open("chips-1.csv", mode="r", newline="", encoding="utf-8") as file:
     reader = csv.reader(file)
     columns = [list(col) for col in zip(*reader)]
-st.caption(columns)
+# st.caption(columns)
+chips = columns[0]
+grade = columns[1]
+reason = columns[2]
 
-chips = ["Lays", "Ruffles", "Calbee", "Kettle", "Tyrells"]
-grade = [17, 40, 70, 86, 80]
-reason = [
-    "Packaging uses too much plastic",
-    "oil problems",
-    "some problem but pretty good",
-    "idk",
-    "organic British crisps yum yum yum. Young lad you have very good taste in chips. You should get the sweet chili flavor"
-]  
+# chips = ["Lays", "Ruffles", "Calbee", "Kettle", "Tyrells"]
+# grade = [17, 40, 70, 86, 80]
+# reason = [
+#    "Packaging uses too much plastic",
+#    "oil problems",
+#    "some problem but pretty good",
+#    "idk",
+#    "organic British crisps yum yum yum. Young lad you have very good taste in chips. You should get the sweet chili flavor"
+# ]  
 
 if st.button("Enter") or userChips.strip():
     cleanInput = userChips.strip().lower()
