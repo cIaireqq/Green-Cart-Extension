@@ -1,7 +1,6 @@
 # ReClaim 
 import streamlit as st  
 from PIL import Image
-import json
 
 img = Image.open("chip.jpg")
 width, height = img.size
@@ -19,8 +18,8 @@ userChips = st.text_input(
     "Search or enter the name of a brand (Eg: 'Lays' instead of 'Lays Chips')"
 )  
 
-st.caption("chips.json");
-f=open('chips.json','r');
+st.caption("chips.csv");
+f=open('chips.csv','r');
 fc=f.readlines();
 if f!=None: 
     st.caption('file exists!');
