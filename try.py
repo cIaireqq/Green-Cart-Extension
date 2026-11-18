@@ -20,6 +20,8 @@ userChips = st.text_input(
 )  
 
 st.caption("chips.json");
+f=open('chips.json','r');
+if f!=None: st.caption('file exists!');
 # Open the file and load its contents into a dictionary
 #with open("chips.json", "r") as file:
 #    data = json.load(file)
