@@ -15,6 +15,7 @@ st.image(banner_img, use_container_width=True)
 # Title and grading stuff
 st.title("ReClaim")
 st.caption("Check out how we grade: https://docs.google.com/document/d/1E9Cwvz3hkz6Ln80RBsq7MWUtxvZ3rgDkj11CJlBvvU4/edit?tab=t.0")
+st.caption("We don't have the chip you want? Suggest one to us with this form: https://forms.gle/PRFrhGEBE7e6jbYo7")
 userChips = st.text_input(
     "Search or enter the name of a brand (Eg: 'Lays' instead of 'Lays Chips')"
 )  
