@@ -68,8 +68,7 @@ if st.button("Enter") or userChips.strip():
         st.warning(
             "We don't have that chips brand. Try checking your spelling. "
             "If we still do not have it, here are some sources that might:  "
-            "1) Open Food Facts API "
-            "2) EWG.org/foodscores "
+            "Open Food Facts API, EWG.org/foodscores "
         )
 else:
     # Only shows when the user hasn't searched yet
