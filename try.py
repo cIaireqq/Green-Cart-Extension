@@ -20,19 +20,13 @@ userChips = st.text_input(
     "Search or enter the name of a brand (Eg: 'Lays' instead of 'Lays Chips')"
 )  
 
-#st.caption("chips-1.csv")
-#f=open('chips-1.csv','r')
-#fc=f.readlines()
-#if f!=None: 
-#    st.caption('file exists!')
-#    for i in fc[:5]: st.caption(i)
+# ok wiht this it's reading the actual file now
+# NOT the short list we gave it earlier
 with open("chips-1.csv", mode="r", newline="", encoding="utf-8") as file:
     reader = csv.reader(file)
     columns = [list(col) for col in zip(*reader)]
-# st.caption(columns)
 chips = columns[0][1:]
 grade = columns[1][1:]
-#st.caption(grade[:5]);
 grade = [int(k) for k in grade]
 reason = columns[2][1:]
 
@@ -72,7 +66,6 @@ if st.button("Enter") or userChips.strip():
             "Open Food Facts API, EWG.org/foodscores "
         )
 else:
-    # Only shows when the user hasn't searched yet
     st.markdown(
         "<h2 style='text-align: center; font-weight: 800; margin: 30px 0;'>AT RECLAIM, WE BELIEVE IN EATING WELL<br>WITHOUT SACRIFICING ENJOYMENT.</h2>",
         unsafe_allow_html=True
